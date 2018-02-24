@@ -10,6 +10,7 @@
  *
 **********************/
 
+// This is just a test
 
 #include <stdint.h>
 #include "M4MemMap.h"
